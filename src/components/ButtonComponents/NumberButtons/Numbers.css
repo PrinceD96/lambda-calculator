@@ -1,0 +1,16 @@
+.numbers-container {
+	border: 1px solid white;
+	width: 75%;
+	display: flex;
+	flex-flow: row wrap;
+	justify-content: space-between;
+}
+
+.numbers {
+	background-color: #184378;
+}
+
+.numbers:nth-child(10) {
+	width: 65%;
+	border-radius: 50px;
+}

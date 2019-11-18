@@ -1,0 +1,11 @@
+.operators-container {
+	border: 1px solid yellow;
+	width: 25%;
+	display: flex;
+	flex-flow: column nowrap;
+	align-items: flex-end;
+}
+
+.operators {
+	background-color: #237293;
+}
