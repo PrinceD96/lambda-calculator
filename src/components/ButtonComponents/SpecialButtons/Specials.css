@@ -1,9 +1,9 @@
 .specials-container {
-	border: 1px solid green;
-	width: 75%;
+	/* border: 1px solid green; */
+	width: 100%;
 	display: flex;
 	justify-content: space-between;
-	height: 100%;
+	height: auto;
 }
 
 .specials {

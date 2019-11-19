@@ -1,6 +1,6 @@
 .numbers-container {
-	border: 1px solid rgb(223, 26, 26);
-	width: 75%;
+	/* border: 1px solid rgb(223, 26, 26); */
+	width: 100%;
 	display: flex;
 	flex-flow: row wrap;
 	justify-content: space-between;
