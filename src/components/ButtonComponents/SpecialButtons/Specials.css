@@ -1,0 +1,11 @@
+.specials-container {
+	/* border: 1px solid green; */
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	height: auto;
+}
+
+.specials {
+	background-color: #225e9d;
+}
